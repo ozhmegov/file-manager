@@ -1,0 +1,10 @@
+rootProject.name = 'file-manager'
+
+include ':dao'
+include ':service'
+include ':presentation'
+
+project(':dao').projectDir = "$rootDir/dao" as File
+project(':service').projectDir = "$rootDir/service" as File
+project(':presentation').projectDir = "$rootDir/presentation" as File
+

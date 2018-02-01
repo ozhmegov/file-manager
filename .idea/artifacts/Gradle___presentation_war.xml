@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : presentation.war">
+    <output-path>$PROJECT_DIR$/presentation/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/presentation" />
+    </properties>
+    <root id="archive" name="presentation.war">
+      <element id="artifact" artifact-name="Gradle : presentation.war (exploded)" />
+    </root>
+  </artifact>
+</component>

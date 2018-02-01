@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="dao_main" target="1.8" />
+      <module name="dao_test" target="1.8" />
+      <module name="file-manager_main" target="1.8" />
+      <module name="file-manager_test" target="1.8" />
+      <module name="presentation_main" target="1.8" />
+      <module name="presentation_test" target="1.8" />
+      <module name="service_main" target="1.8" />
+      <module name="service_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

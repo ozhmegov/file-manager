@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dao.iml" filepath="$PROJECT_DIR$/.idea/modules/dao.iml" group="dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dao_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dao_main.iml" group="dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dao/dao_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dao/dao_test.iml" group="dao" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/file-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation.iml" group="presentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation_main.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation_main.iml" group="presentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/presentation/presentation_test.iml" filepath="$PROJECT_DIR$/.idea/modules/presentation/presentation_test.iml" group="presentation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service_test.iml" group="service" />
+    </modules>
+  </component>
+</project>

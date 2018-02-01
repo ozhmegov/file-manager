@@ -1,0 +1,8 @@
+apply plugin: 'war'
+
+/*ext {
+    springWebVersion = '5.0.0.RELEASE'
+}*/
+
+
+
